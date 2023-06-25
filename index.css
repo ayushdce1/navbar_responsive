@@ -8,6 +8,7 @@ html{
 }
 body{
     overflow-x: hidden;
+
 }
 .nav_logo{
     width: 6rem;
@@ -70,6 +71,10 @@ body{
 }
 .resp_buttons{
     display: none;
+}
+.main_web_wrap{
+    overflow-x: hidden;
+    height: 100vh;
 }
 
 @media only screen and (max-width:990px){
